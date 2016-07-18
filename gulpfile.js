@@ -37,5 +37,5 @@ gulp.task('default', [], function() {
 });
 
 gulp.task('watch', ['default'], function() {
-    gulp.watch('../' + floder + '/*', ['reload']);
+    gulp.watch('../' + floder + '/**', ['reload']);
 });
