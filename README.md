@@ -1,5 +1,5 @@
 # gulp-reload
-just reload 
+实时刷新
 
 # use
 ```
